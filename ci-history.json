@@ -1,6 +1,7 @@
-{"updated":"2026-10-17T15:00:19Z",
+{"updated":"2026-10-17T15:00:30Z",
 "ci":[
-{"id":38437438982,"at":"2026-10-13T17:17:20Z","sha":"3e175aa48","title":"theme: retire two near-duplicate palette stops; add design-tokens.py drift check","pr":651,"conclusion":"success","attempt":1,"jobs":{"host python/shell/C gates":95,"host unit tests (hostsim)":451,"host harness tests":171,"host lint + type-checks":191,"host unit tests (default features)":495,"cross-build (armv7) + artifact assertions":409,"host checks (NOT a device gate)":4}}
+{"id":38437438982,"at":"2026-10-13T17:17:20Z","sha":"3e175aa48","title":"theme: retire two near-duplicate palette stops; add design-tokens.py drift check","pr":651,"conclusion":"success","attempt":1,"jobs":{"host python/shell/C gates":95,"host unit tests (hostsim)":451,"host harness tests":171,"host lint + type-checks":191,"host unit tests (default features)":495,"cross-build (armv7) + artifact assertions":409,"host checks (NOT a device gate)":4}},
+{"id":39042710081,"at":"2026-10-17T14:54:01Z","sha":"0b0b22092","title":"Add German (de) as a UI language","pr":820,"conclusion":"success","attempt":1,"jobs":{"which gates apply":4,"armv7 cross-build and artifact assertions":367,"host python/shell/C gates":131,"host unit tests (hostsim)":215,"host harness tests":169,"host unit tests (default features)":343,"host lint + type-checks":167,"host checks (NOT a device gate)":3,"cross-build (armv7) + artifact assertions":2}}
 ],
 "sim":[
 {"id":38437438825,"at":"2026-10-13T17:17:20Z","sha":"3e175aa48","title":"theme: retire two near-duplicate palette stops; add design-tokens.py drift check","pr":651,"conclusion":"success","attempt":1,"jobs":{"Linux simulator build + launch":466,"macOS simulator build + launch":376,"Windows launcher syntax":30,"macOS tests against bundled FFmpeg and ASS":394}},
